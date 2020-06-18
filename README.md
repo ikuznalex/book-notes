@@ -10,3 +10,4 @@ Notes from articles I am currently reading somewhere.
 
 * [Visual Encoding](https://www.targetprocess.com/articles/visual-encoding/) by M. Dubakov 
 
+#### Videos

@@ -11,6 +11,8 @@ Notes from different interesting sources I've read or watch.
 
 #### Books
 
+* [Диета Чемпионов](champion-diet.md) by Мэт Фицджеральд
+
 #### Articles
 Notes from articles I am currently reading somewhere.
 

@@ -8,10 +8,10 @@ Notes from different interesting sources I've read or watch.
 #### Articles
 Notes from articles I am currently reading somewhere.
 
-* [Visual Encoding](https://www.targetprocess.com/articles/visual-encoding/) by M. Dubakov 
+* [Visual Encoding](visual-encoding.md) by M. Dubakov 
 
 #### Articles [ru]
 
-* [Как я приручил MIT-овский курс по Computer Science](/book-notes/cs-mit-course.md) by Скотт Янг
+* [Как я приручил MIT-овский курс по Computer Science](cs-mit-course.md) by Скотт Янг
 
 #### Videos

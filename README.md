@@ -19,3 +19,5 @@ Notes from articles I am currently reading somewhere.
 * [Visual Encoding](visual-encoding.md) by M. Dubakov 
 
 #### Videos
+
+* [Podlodka #166 - Переговоры](podlodka-negotiations.md) by [Podlodka Podcasts](https://soundcloud.com/podlodka)

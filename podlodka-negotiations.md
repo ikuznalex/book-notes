@@ -2,7 +2,6 @@
 https://soundcloud.com/podlodka/podlodka-166-peregovory
 by [Podlodka Podcasts](https://soundcloud.com/podlodka/podlodka-166-peregovory)
 
-  * Эмоции
   * [Правило] В случае, если эмоции зашкаливают (стресс, переживание, гнев), нужно перестать вести серьзные переговоры.
     * Воды пойти попить 
     * Перенести на другой день

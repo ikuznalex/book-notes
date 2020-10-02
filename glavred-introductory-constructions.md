@@ -1,3 +1,3 @@
-## Podlodka #166 - Переговоры
+## 3. Главред - базовый курс - вводные конструкции
 https://us9.campaign-archive.com/?u=89138ced008e0282fe335b3a8&id=8dda011850
-by [Главред](https://us9.campaign-archive.com/?u=89138ced008e0282fe335b3a8&id=8dda011850)
+by М.Ильяхов

@@ -18,7 +18,7 @@ Notes from articles I am currently reading somewhere.
 
 * [Visual Encoding](visual-encoding.md) by M. Dubakov
 
-* [Главред, базовый курс - 3. Вводные конструкции](glavred-introductory-constructions.md) by M.Ilyahov 
+* [Главред. Базовый курс](glavred-introductory-constructions.md) by M.Ilyahov 
 
 #### Videos
 

@@ -7,4 +7,3 @@
 * [TeamLead roadmap - interview](https://tlroadmap.io/roles/people-manager/people-management/hiring/interview.html)
 
 ![Interview process step by step schema](interview-process-step-by-step-schema.png)
-![Interview process step by step](interview-process-step-by-step-schema.pdf)

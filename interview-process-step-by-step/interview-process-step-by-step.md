@@ -3,5 +3,5 @@
 
 На схеме показаны этапы интервью и действия, которые можно выполнить во время каждого из них.
 
-(Interview-process)[./Images/intervew-process-step-by-step-schema.png]
+![Interview process step by step schema](intervew-process-step-by-step-schema.png)
 

@@ -24,3 +24,6 @@ Notes from articles I am currently reading somewhere.
 
 * [Podlodka #166 - Переговоры](podlodka-negotiations.md) by [Podlodka Podcasts](https://soundcloud.com/podlodka)
 * [Podlodka #67 - Личная эффективность](podlodka-personal-effectiveness.md) by [Podlodka Podcasts](https://soundcloud.com/podlodka)
+
+
+#### My posts

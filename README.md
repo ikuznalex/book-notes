@@ -17,7 +17,6 @@ Notes from different interesting sources I've read or watch.
 Notes from articles I am currently reading somewhere.
 
 * [Visual Encoding](visual-encoding.md) by M. Dubakov
-
 * [Главред. Базовый курс](glavred-introductory-constructions.md) by M.Ilyahov 
 
 #### Videos

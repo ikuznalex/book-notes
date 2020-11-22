@@ -27,4 +27,4 @@ Notes from articles I am currently reading somewhere.
 
 
 #### My posts
-* [Процесс интервью шаг за шагом](interview-process-step-by-step.md) by Alexander Kuznetsov
+* [Процесс интервью шаг за шагом](interview-process-step-by-step/interview-process-step-by-step.md) by Alexander Kuznetsov
